@@ -22,3 +22,11 @@ Analyze user behavior across an e-commerce funnel (view → cart → purchase) t
 ## Files
 - analysis.ipynb → Full analysis
 - ecommerce.db → Dataset (optional)
+
+- ## Dataset
+The dataset used in this project is too large to upload to GitHub.
+You can download it from:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+After downloading:
+- Extract the file
+- Place `2019-Dec.csv` in the project folder
